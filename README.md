@@ -1,2 +1,1 @@
-# damage-assessment
-Fully Convolutional Networks in PyTorch for post earthquake damage assessment.
+# Fully Convolutional Networks for post earthquake damage assessment.
